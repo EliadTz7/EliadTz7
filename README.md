@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EliadTz7
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React, Angular, JS, TS, MongoDB , Node
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning SQL Tableau Excel Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
